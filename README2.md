@@ -60,3 +60,30 @@ And a 19.58% savings by using E10 fuel.
 
 ![chart](viz/consume_cost_sp.png)
 
+# The Deeper Investigations did not give anything as conclusive
+
+We added columns to the origianl DataFrame that were  derived from the data we were given on order to put it in a scatter plot.
+- Mileage 
+- Travel Time
+- Price
+
+![chart](viz/temp-mileage.png)
+![chart](viz/time-mileage.png)
+![chart](viz/speed-mileage.png)
+
+We could put this through some machine learning and that will definitly be the next step in order to find some unseen patters that could affect gas mileage.
+
+But we are in serious need of more data to really pull anything meaningful from it.
+
+# Conclusion
+
+From what we can see E10 seems 20% more efficient in terms of price which should make 
+
+```
+Hourly expense dirving with E10:  14.81
+Hourly expense dirving with SP98:  16.51
+--------------------------------------------------
+Savings in hourly wage for driver:  1.70
+```
+
+If you have a 30-hour work week for a driver that is 50€ extra a week or 200€ a month which could be very helpful. 
